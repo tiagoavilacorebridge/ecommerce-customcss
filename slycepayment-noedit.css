@@ -55,7 +55,5 @@ left:50px;
 }
 
 #app-header-data-name {
-	/*display: none;*/
-	background-color: red;
-	height: 10px;
+	display: none;
 }
