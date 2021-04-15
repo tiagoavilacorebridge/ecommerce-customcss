@@ -1,0 +1,61 @@
+#main-wrapper
+{
+overflow:hidden;
+}
+
+
+#slice-hide-button {
+ display:none;
+}
+
+.slice-container .slice-hide-button
+{
+ display:none;
+}
+
+#payplan-create-check{
+ display:none;
+}
+
+.history-list-container .app-refund {
+display:none;
+}
+
+#refund-dollar,#refund-amount {
+display:none;
+}
+
+.card-info-group-CUamount,#cardvault-inputs-amount {
+display:none;
+}
+
+.input-group-addon  .input-group-addon-safari-fix{
+display:none;
+}
+
+#refund-word .btn-default {
+left:50px;
+}
+
+.divider { display:none; }
+.receipt-print { display: none; }
+.receipt-print.form-group.pull-left { display:block; }
+.input-group { display:none; }
+#cardIcons { display: inline-block !important; }
+
+#refund-word button.btn-default
+{
+    border-bottom-left-radius: 3px;
+    border-top-left-radius: 3px;
+    left: 6px;
+}
+
+.card-info-group-remember {
+    display: none;
+}
+
+#app-header-data-name {
+	/*display: none;*/
+	background-color: red;
+	height: 10px;
+}
